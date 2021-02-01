@@ -17,3 +17,5 @@ This notebook showcases data analysis process with python, namely
 - Exploratory Data Analysis
 - Model Development
 - Model Evaluation and Refinement
+![](.gitignore/Figure_11.png)
+![](.gitignore/Figure_12.png)
