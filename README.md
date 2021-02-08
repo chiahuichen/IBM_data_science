@@ -45,7 +45,13 @@ This notebook showcases data analysis process with python, namely
 - Importing Data Sets
 - Data Wrangling
 - Exploratory Data Analysis
-- Model Development
-- Model Evaluation and Refinement
+- Model Development 
+  1. create a Pipeline object and pass model constructor as argument
+  2. fit the object, and then calculate the R^2
+- Model Evaluation and Refinement:
+  1. split the data into training and testing sets using train_test_split() 
+  2. fit a Ridge regression object using the training data, set the regularization parameter to 0.1, and calculate the R^2 using the test data
+ 
+<br></br>
 ![](.gitignore/Figure_11.png)
 ![](.gitignore/Figure_12.png)
