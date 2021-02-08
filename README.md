@@ -13,6 +13,10 @@ This dashboard provides two differnt types of reports:
     -   Percentage of diverted airport landings per reporting airline using pie chart.
     -   Number of flights flying from each state using choropleth map.
     -   Number of flights flying to each state from each reporting airline using treemap chart.
+    <br> <br/>
+    ![](.gitignore/Figure_1.png)
+    <br> 
+    <br/>
 2.  Yearly average flight delay statistics
 
     For the chosen year provide,
@@ -22,6 +26,8 @@ This dashboard provides two differnt types of reports:
     -   Monthly average natioanl air system delay by reporting airline for the given year.
     -   Monthly average security delay by reporting airline for the given year.
     -   Monthly average late aircraft delay by reporting airline for the given year.
+    <br> <br/>
+    ![](.gitignore/Figure_2.png)
 
 <br> </br>
 ## ibm_db_API.py
